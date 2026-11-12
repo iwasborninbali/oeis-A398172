@@ -1,0 +1,5 @@
+cwd: /Users/iwasborninbali/projects/science/oeis-A398172
+command: cc -O2 -std=c11 /Users/iwasborninbali/projects/science/oeis-A398172/programs/line_rows.c -o /tmp/c7-A398172/line_rows
+exit: 0
+elapsed_seconds: 0.726
+
