@@ -1,5 +1,14 @@
 # OEIS A398172: subsets of the n X n grid with no three collinear points
 
+<!-- oeis-status:begin -->
+**OEIS status** (lab registry, 13 Nov 2026):
+
+- [A398172](https://oeis.org/A398172), a(9), a(10): subsets of the n X n grid with no three collinear: **approved** (2026-11-12: approved). Certificate: complete.
+- [A398172](https://oeis.org/A398172), replace the no3-results link by the repository link: **queued** (2026-11-13: queued). Certificate: complete.
+
+Rules and the full registry: [athanor-oeis](https://github.com/iwasborninbali/athanor-oeis/blob/main/REGISTRY.md).
+<!-- oeis-status:end -->
+
 [A398172](https://oeis.org/A398172): the number of subsets of the n X n grid with no three collinear points (the empty set is counted). Subsets are sets of grid points; rotations and reflections are counted separately.
 
 This repository holds the programs, data and checks behind the terms we contributed to this sequence. It concerns
