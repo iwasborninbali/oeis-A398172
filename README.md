@@ -1,7 +1,7 @@
 # OEIS A398172: subsets of the n X n grid with no three collinear points
 
 <!-- oeis-status:begin -->
-**OEIS status** (lab registry, 14 Nov 2026):
+**OEIS status** (lab registry, 15 Nov 2026):
 
 - [A398172](https://oeis.org/A398172), a(9), a(10): subsets of the n X n grid with no three collinear: **approved** (2026-11-12: approved). Certificate: complete.
 - [A398172](https://oeis.org/A398172), replace the no3-results link by the repository link: **approved** (2026-11-13: approved (live revision #40)). Certificate: complete.
